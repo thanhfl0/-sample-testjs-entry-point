@@ -1,0 +1,19 @@
+{
+  "name": "-sample-testjs-entry-point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhfl0/-sample-testjs-entry-point.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhfl0/-sample-testjs-entry-point/issues"
+  },
+  "homepage": "https://github.com/thanhfl0/-sample-testjs-entry-point#readme"
+}
