@@ -1,0 +1,1 @@
+# -sample-testjs-entry-point
